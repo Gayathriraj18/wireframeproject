@@ -12,7 +12,9 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
-include your output screenshots 
+![output](./pen1.png)
+![output](./pen3.png)
+![output](./pen2.png)
 
 
 ## Result:
